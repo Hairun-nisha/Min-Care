@@ -1,9 +1,6 @@
-# MindfullConnect: Mental Health Support Website
-
-**live website**: https://prabinb50.github.io/MindfullConnect_Mental_Health_Support_Website_Using_HTML_CSS_JS/
 
 ## Overview
-MindfullConnect is a **frontend website** developed to provide comprehensive mental health resources and support. Built using HTML, CSS, and JavaScript, it offers users tools for self-assessment, access to professional services, and emergency support. This platform responds to the growing demand for accessible online mental health services and aims to improve psychological well-being through interactive features, educational content, and real-time support.
+MindCare is a **frontend website** developed to provide comprehensive mental health resources and support. Built using HTML, CSS, and JavaScript, it offers users tools for self-assessment, access to professional services, and emergency support. This platform responds to the growing demand for accessible online mental health services and aims to improve psychological well-being through interactive features, educational content, and real-time support.
 
 ## Key Features
 1. **Responsive Navigation Bar**: Designed to work seamlessly across desktops, tablets, and mobile devices.
@@ -16,7 +13,6 @@ MindfullConnect is a **frontend website** developed to provide comprehensive men
 ## Tools and Technologies
 - **HTML, CSS, JavaScript**: Frontend development.
 - **Swiper.js**: For creating dynamic, responsive carousels on the homepage.
-- **Tawk.to**: For live chat integration, enabling real-time support.
 - **JavaScript (Quiz Modal)**: Powers the interactive quiz feature that selects 10 random questions from a set of 25 to assess the user’s mental health state.
 
 
